@@ -30,12 +30,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justpiple/whatsapp-bot.git"
+    "url": "git+https://github.com/aneeslub/whatsapp-Bot-by-Anees"
   },
   "author": "ben",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/justpiple/whatsapp-bot/issues"
+    "url": "https://github.com/aneeslub/whatsapp-bot."
   },
-  "homepage": "https://github.com/justpiple/whatsapp-bot#readme"
+  "homepage": "https://github.com/aneeslub/whatsapp-Bot#readme"
 }
