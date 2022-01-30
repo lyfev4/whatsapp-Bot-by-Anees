@@ -30,12 +30,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aneeslub/whatsapp-Bot-by-Anees"
+    "url": "git+https://github.com/lyfev4/whatsapp-Bot-by-Anees"
   },
   "author": "ben",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aneeslub/whatsapp-bot."
+    "url": "https://github.com/lyfev4/whatsapp-bot."
   },
-  "homepage": "https://github.com/aneeslub/whatsapp-Bot#readme"
+  "homepage": "https://github.com/lyfev4/whatsapp-Bot#readme"
 }
